@@ -1,0 +1,20 @@
+{
+    "cur": 5,
+    "name": "v1",
+    "path": {
+        "common": [
+            "/static/common/main.json",
+            "/static/common/banner.json",
+            "/static/common/news.json",
+            "/static/common/user.json"
+        ],
+        "images": [
+            "/static/images/co1-h.png",
+            "/static/images/co1.png",
+            "/static/images/co2.png"
+        ],
+        "custom": [
+            "/static/other.txt"
+        ]
+    }
+}
